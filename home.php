@@ -86,7 +86,7 @@ $result = $conn->query($sql);
 <body>
     <div class="head">
         <div class="image">
-    <img src="calicut_logo.png" height="75px"/>
+    <img src="jntuk_logo.png" height="75px"/>
 </div>
     <div class="main">
 <h1>Student Result Portal</h1>
